@@ -1,0 +1,157 @@
+{
+  "common": {
+    "portfolio": "Wyne Htet",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Reintentar"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Zaw Moe Thet",
+    "title": "Desarrollador",
+    "subtitle": "Desarrollador full-stack apasionado por crear experiencias web",
+    "subtitle2": "hermosas y funcionales con tecnologías modernas",
+    "viewProjects": "Ver Proyectos",
+    "downloadCV": "Descargar CV",
+    "technologies": {
+      "html": "HTML",
+      "css": "CSS",
+      "javascript": "JavaScript",
+      "react": "React",
+      "nodejs": "Node.js"
+    }
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "description": "Soy un desarrollador apasionado con experiencia en tecnologías web modernas. Me encanta crear soluciones innovadoras y dar vida a las ideas a través del código.",
+    "journey": {
+      "title": "Mi Trayectoria",
+      "description": "Con más de {{years}} años de experiencia en desarrollo web, he trabajado en proyectos diversos que van desde sitios web para pequeñas empresas hasta aplicaciones a gran escala. Estoy constantemente aprendiendo nuevas tecnologías y manteniéndome al día con las tendencias de la industria para entregar soluciones de vanguardia."
+    },
+    "skills": {
+      "frontend": {
+        "title": "Desarrollo Frontend",
+        "description": "React, TypeScript, Tailwind CSS"
+      },
+      "backend": {
+        "title": "Desarrollo Backend",
+        "description": "Node.js, Python, PostgreSQL"
+      },
+      "web": {
+        "title": "Tecnologías Web",
+        "description": "HTML5, CSS3, JavaScript ES6+"
+      },
+      "mobile": {
+        "title": "Desarrollo Móvil",
+        "description": "React Native, Flutter"
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilidades y Experiencia",
+    "description": "Una visión completa de mis habilidades técnicas y niveles de competencia en varias tecnologías y frameworks.",
+    "categories": {
+      "frontend": "Desarrollo Frontend",
+      "backend": "Desarrollo Backend",
+      "database": "Base de Datos y Almacenamiento",
+      "devops": "DevOps y Nube",
+      "tools": "Herramientas y Flujo de Trabajo",
+      "mobile": "Móvil y Multiplataforma"
+    },
+    "experience": {
+      "years": "{{count}}+",
+      "yearsLabel": "Años de Experiencia",
+      "projects": "{{count}}+",
+      "projectsLabel": "Proyectos Completados",
+      "technologies": "{{count}}+",
+      "technologiesLabel": "Tecnologías Utilizadas",
+      "learning": "24/7",
+      "learningLabel": "Modo Aprendizaje"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Aquí tienes algunos de mis proyectos recientes que muestran mis habilidades y pasión por el desarrollo.",
+    "items": {
+      "ecommerce": {
+        "title": "Plataforma de Comercio Electrónico",
+        "description": "Solución completa de comercio electrónico con React, Node.js e integración de Stripe.",
+        "technologies": ["React", "Node.js", "MongoDB", "Stripe"]
+      },
+      "taskmanagement": {
+        "title": "Aplicación de Gestión de Tareas",
+        "description": "Gestión colaborativa de tareas con actualizaciones en tiempo real y características de equipo.",
+        "technologies": ["React", "TypeScript", "Socket.io", "PostgreSQL"]
+      },
+      "weather": {
+        "title": "Panel del Clima",
+        "description": "Hermosa aplicación del clima con pronósticos y mapas interactivos.",
+        "technologies": ["Vue.js", "Weather API", "Chart.js", "Tailwind"]
+      },
+      "portfolio": {
+        "title": "Sitio Web Portafolio",
+        "description": "Portafolio interactivo con animaciones Three.js y diseño moderno.",
+        "technologies": ["React", "Three.js", "Framer Motion", "Tailwind"]
+      }
+    },
+    "actions": {
+      "code": "Código",
+      "demo": "Demo en Vivo"
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "description": "Siempre estoy abierto a discutir nuevas oportunidades y proyectos interesantes.",
+    "description2": "¡Conectemos y creemos algo increíble juntos!",
+    "info": {
+      "title": "Información de Contacto",
+      "email": "hello@developer.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "San Francisco, CA",
+      "labels": {
+        "email": "Email",
+        "phone": "Teléfono",
+        "location": "Ubicación"
+      }
+    },
+    "connect": {
+      "title": "Conectar y Descargar",
+      "resume": "Currículum"
+    },
+    "form": {
+      "title": "Enviar Mensaje",
+      "name": {
+        "label": "Nombre",
+        "placeholder": "Tu nombre"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "tu.email@ejemplo.com"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuéntame sobre tu proyecto..."
+      },
+      "submit": "Enviar Mensaje",
+      "success": "¡Mensaje enviado con éxito!",
+      "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo."
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} {{name}}. Construido con React, Three.js y Tailwind CSS."
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語"
+  }
+}

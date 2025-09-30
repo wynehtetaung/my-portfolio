@@ -1,0 +1,213 @@
+{
+  "common": {
+    "portfolio": "WyneHtet",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Wyne Htet",
+    "title": "Developer",
+    "subtitle": "Full-stack developer passionate about creating beautiful",
+    "subtitle2": "functional web experiences with modern technologies",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV",
+    "technologies": {
+      "html": "HTML",
+      "css": "CSS",
+      "javascript": "JavaScript",
+      "react": "React",
+      "nodejs": "Node.js"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate developer with expertise in modern web technologies. I love creating innovative solutions and bringing ideas to life through code.",
+    "journey": {
+      "title": "My Journey",
+      "description": "With over {{years}} years of experience in web development, I've worked on diverse projects ranging from small business websites to large-scale applications. I'm constantly learning new technologies and staying up-to-date with industry trends to deliver cutting-edge solutions."
+    },
+    "skills": {
+      "frontend": {
+        "title": "Frontend Development",
+        "description": "React, TypeScript, Tailwind CSS"
+      },
+      "backend": {
+        "title": "Backend Development",
+        "description": "Node.js, Python, PostgreSQL"
+      },
+      "web": {
+        "title": "Web Technologies",
+        "description": "HTML5, CSS3, JavaScript ES6+"
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "description": "React Native, Flutter"
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "description": "A comprehensive overview of my technical skills and proficiency levels across various technologies and frameworks.",
+    "categories": {
+      "frontend": "Frontend Development",
+      "backend": "Backend Development",
+      "database": "Database & Storage",
+      "devops": "DevOps & Cloud",
+      "tools": "Tools & Workflow",
+      "mobile": "Mobile & Cross-Platform"
+    },
+    "technologies": {
+      "react": "React/Next.js",
+      "typescript": "TypeScript",
+      "javascript": "JavaScript (ES6+)",
+      "html": "HTML5/CSS3",
+      "tailwind": "Tailwind CSS",
+      "sass": "Sass/SCSS",
+      "nodejs": "Node.js",
+      "express": "Express.js",
+      "python": "Python",
+      "restapi": "REST APIs",
+      "graphql": "GraphQL",
+      "microservices": "Microservices",
+      "postgresql": "PostgreSQL",
+      "mongodb": "MongoDB",
+      "redis": "Redis",
+      "mysql": "MySQL",
+      "firebase": "Firebase",
+      "supabase": "Supabase",
+      "docker": "Docker",
+      "aws": "AWS",
+      "vercel": "Vercel",
+      "github_actions": "GitHub Actions",
+      "nginx": "Nginx",
+      "linux": "Linux",
+      "git": "Git/GitHub",
+      "vscode": "VS Code",
+      "webpack": "Webpack/Vite",
+      "testing": "Jest/Vitest",
+      "eslint": "ESLint/Prettier",
+      "figma": "Figma",
+      "react_native": "React Native",
+      "flutter": "Flutter",
+      "pwa": "PWA",
+      "expo": "Expo",
+      "ionic": "Ionic",
+      "cordova": "Cordova"
+    },
+    "experience": {
+      "years": "{{count}}+",
+      "yearsLabel": "Years Experience",
+      "projects": "{{count}}+",
+      "projectsLabel": "Projects Completed",
+      "technologies": "{{count}}+",
+      "technologiesLabel": "Technologies Used",
+      "learning": "24/7",
+      "learningLabel": "Learning Mode"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my recent projects that showcase my skills and passion for development.",
+    "items": {
+      "ecommerce": {
+        "title": "E-Commerce Platform",
+        "description": "Full-stack e-commerce solution with React, Node.js, and Stripe integration.",
+        "technologies": ["React", "Node.js", "MongoDB", "Stripe"]
+      },
+      "taskmanagement": {
+        "title": "Task Management App",
+        "description": "Collaborative task management with real-time updates and team features.",
+        "technologies": ["React", "TypeScript", "Socket.io", "PostgreSQL"]
+      },
+      "weather": {
+        "title": "Weather Dashboard",
+        "description": "Beautiful weather app with forecasts and interactive maps.",
+        "technologies": ["Vue.js", "Weather API", "Chart.js", "Tailwind"]
+      },
+      "portfolio": {
+        "title": "Portfolio Website",
+        "description": "Interactive portfolio with Three.js animations and modern design.",
+        "technologies": ["React", "Three.js", "Framer Motion", "Tailwind"]
+      }
+    },
+    "actions": {
+      "code": "Code",
+      "demo": "Live Demo"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "I'm always open to discussing new opportunities and interesting projects.",
+    "description2": "Let's connect and create something amazing together!",
+    "info": {
+      "title": "Contact Information",
+      "email": "hello@developer.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "San Francisco, CA",
+      "labels": {
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location"
+      }
+    },
+    "connect": {
+      "title": "Connect & Download",
+      "resume": "Resume"
+    },
+    "form": {
+      "title": "Send Message",
+      "name": {
+        "label": "Name",
+        "placeholder": "Your name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "your.email@example.com"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell me about your project..."
+      },
+      "submit": "Send Message",
+      "validation": {
+        "nameRequired": "Name is required",
+        "nameMinLength": "Name must be at least {{min}} characters",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "messageRequired": "Message is required",
+        "messageMinLength": "Message must be at least {{min}} characters",
+        "messageMaxLength": "Message must not exceed {{max}} characters"
+      },
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} {{name}}. Built with React, Three.js & Tailwind CSS."
+  },
+  "accessibility": {
+    "skipToMain": "Skip to main content",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "scrollToSection": "Scroll to {{section}} section",
+    "downloadResume": "Download resume PDF",
+    "externalLink": "Opens in new tab",
+    "changeLanguage": "Change language"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語"
+  }
+}

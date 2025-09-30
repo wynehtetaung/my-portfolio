@@ -1,0 +1,157 @@
+{
+  "common": {
+    "portfolio": "Wyne Htet",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "about": "私について",
+    "skills": "スキル",
+    "projects": "プロジェクト",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "greeting": "こんにちは、私は",
+    "name": "Zaw Moe Thet",
+    "title": "開発者",
+    "subtitle": "美しく機能的なウェブ体験を",
+    "subtitle2": "モダンな技術で作ることに情熱を注ぐフルスタック開発者",
+    "viewProjects": "プロジェクトを見る",
+    "downloadCV": "履歴書をダウンロード",
+    "technologies": {
+      "html": "HTML",
+      "css": "CSS",
+      "javascript": "JavaScript",
+      "react": "React",
+      "nodejs": "Node.js"
+    }
+  },
+  "about": {
+    "title": "私について",
+    "description": "私はモダンなウェブ技術に精通した情熱的な開発者です。革新的なソリューションを作り、コードを通してアイデアに命を吹き込むことが大好きです。",
+    "journey": {
+      "title": "私の旅路",
+      "description": "ウェブ開発において{{years}}年以上の経験を持ち、小規模なビジネスウェブサイトから大規模なアプリケーションまで、多様なプロジェクトに取り組んできました。常に新しい技術を学び、業界のトレンドに遅れないよう心がけ、最先端のソリューションを提供しています。"
+    },
+    "skills": {
+      "frontend": {
+        "title": "フロントエンド開発",
+        "description": "React、TypeScript、Tailwind CSS"
+      },
+      "backend": {
+        "title": "バックエンド開発",
+        "description": "Node.js、Python、PostgreSQL"
+      },
+      "web": {
+        "title": "ウェブ技術",
+        "description": "HTML5、CSS3、JavaScript ES6+"
+      },
+      "mobile": {
+        "title": "モバイル開発",
+        "description": "React Native、Flutter"
+      }
+    }
+  },
+  "skills": {
+    "title": "スキルと専門知識",
+    "description": "様々な技術とフレームワークにおける私の技術的スキルと習熟レベルの包括的な概要。",
+    "categories": {
+      "frontend": "フロントエンド開発",
+      "backend": "バックエンド開発",
+      "database": "データベースとストレージ",
+      "devops": "DevOpsとクラウド",
+      "tools": "ツールとワークフロー",
+      "mobile": "モバイルとクロスプラットフォーム"
+    },
+    "experience": {
+      "years": "{{count}}年+",
+      "yearsLabel": "経験年数",
+      "projects": "{{count}}+",
+      "projectsLabel": "完了プロジェクト",
+      "technologies": "{{count}}+",
+      "technologiesLabel": "使用技術",
+      "learning": "24時間365日",
+      "learningLabel": "学習モード"
+    }
+  },
+  "projects": {
+    "title": "プロジェクト",
+    "description": "私のスキルと開発への情熱を示す最近のプロジェクトをいくつかご紹介します。",
+    "items": {
+      "ecommerce": {
+        "title": "Eコマースプラットフォーム",
+        "description": "React、Node.js、Stripe統合を使用したフルスタックEコマースソリューション。",
+        "technologies": ["React", "Node.js", "MongoDB", "Stripe"]
+      },
+      "taskmanagement": {
+        "title": "タスク管理アプリ",
+        "description": "リアルタイム更新とチーム機能を備えた協調的タスク管理。",
+        "technologies": ["React", "TypeScript", "Socket.io", "PostgreSQL"]
+      },
+      "weather": {
+        "title": "天気ダッシュボード",
+        "description": "予報とインタラクティブマップを備えた美しい天気アプリ。",
+        "technologies": ["Vue.js", "Weather API", "Chart.js", "Tailwind"]
+      },
+      "portfolio": {
+        "title": "ポートフォリオウェブサイト",
+        "description": "Three.jsアニメーションとモダンデザインのインタラクティブポートフォリオ。",
+        "technologies": ["React", "Three.js", "Framer Motion", "Tailwind"]
+      }
+    },
+    "actions": {
+      "code": "コード",
+      "demo": "ライブデモ"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "description": "新しい機会や興味深いプロジェクトについて話し合うことはいつでも歓迎です。",
+    "description2": "つながって、一緒に素晴らしいものを作りましょう！",
+    "info": {
+      "title": "連絡先情報",
+      "email": "hello@developer.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "サンフランシスコ、カリフォルニア州",
+      "labels": {
+        "email": "メール",
+        "phone": "電話",
+        "location": "場所"
+      }
+    },
+    "connect": {
+      "title": "つながり & ダウンロード",
+      "resume": "履歴書"
+    },
+    "form": {
+      "title": "メッセージを送る",
+      "name": {
+        "label": "お名前",
+        "placeholder": "あなたの名前"
+      },
+      "email": {
+        "label": "メール",
+        "placeholder": "your.email@example.com"
+      },
+      "message": {
+        "label": "メッセージ",
+        "placeholder": "あなたのプロジェクトについて教えてください..."
+      },
+      "submit": "メッセージを送信",
+      "success": "メッセージが正常に送信されました！",
+      "error": "メッセージの送信に失敗しました。再試行してください。"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} {{name}}。React、Three.js、Tailwind CSSで構築。"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語"
+  }
+}
