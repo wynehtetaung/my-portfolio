@@ -184,15 +184,15 @@
       {
         "title": "zconor",
         "description": "Full-stack e-commerce solution with React, Node.js, and Stripe integration.",
-        "image": "/src/assets/images/zconor.png",
+        "image": "./src/assets/images/zconor.png",
         "technologies": ["React", "TypeScript", "Tailwind"],
         "github": "https://github.com/wynehtetaung/zconor",
-        "live": "#"
+        "live": "https://www.zconor.com/"
       },
       {
         "title": "Portfolio Website",
         "description": "Collaborative task management with real-time updates and team features.",
-        "image": "/src/assets/images/Portfolio.png",
+        "image": "./src/assets/images/Portfolio.png",
         "technologies": ["React", "MaterialUI"],
         "github": "https://github.com/wynehtetaung/Portfolio_2025",
         "live": "https://portfolio-2025-kto5.onrender.com/"
