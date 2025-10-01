@@ -183,7 +183,7 @@
     "items": [
       {
         "title": "zconor",
-        "description": "Full-stack e-commerce solution with React, Node.js, and Stripe integration.",
+        "description": "For show information & Services.",
         "image": "/images/zconor.png",
         "technologies": ["React", "TypeScript", "Tailwind"],
         "github": "https://github.com/wynehtetaung/zconor",
@@ -191,27 +191,33 @@
       },
       {
         "title": "Portfolio Website",
-        "description": "Collaborative task management with real-time updates and team features.",
+        "description": "Personal data information page.",
         "image": "/images/Portfolio.png",
         "technologies": ["React", "MaterialUI"],
         "github": "https://github.com/wynehtetaung/Portfolio_2025",
         "live": "https://portfolio-2025-kto5.onrender.com/"
       },
       {
-        "title": "Weather Dashboard",
-        "description": "Beautiful weather app with forecasts and interactive maps.",
-        "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=500&h=300&fit=crop",
-        "technologies": ["Vue.js", "Weather API", "Chart.js", "Tailwind"],
-        "github": "#",
-        "live": "#"
+        "title": "E-commerce",
+        "description": "Full-stack e-commerce solution with React, Node.js and MongoDB.",
+        "image": "/images/e-commerce.png",
+        "technologies": ["React", "CSS", "Express.js", "MongoDB", "Firebase"],
+        "github": "https://github.com/wynehtetaung/ecommerce-client",
+        "live": "https://ecommerce-project-2024.netlify.app/"
       },
       {
-        "title": "Portfolio Website",
-        "description": "Interactive portfolio with Three.js animations and modern design.",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
-        "technologies": ["React", "Three.js", "Framer Motion", "Tailwind"],
-        "github": "#",
-        "live": "#"
+        "title": "Authentication Checking",
+        "description": "Testing For Authentication Checking",
+        "image": "/images/auth.png",
+        "technologies": [
+          "React",
+          "Framer Motion",
+          "Tailwind",
+          "Express.js",
+          "MongoDB"
+        ],
+        "github": "https://github.com/wynehtetaung/auth_tutorial",
+        "live": "https://auth-tutorial-4rjf.onrender.com/login"
       }
     ]
   },
