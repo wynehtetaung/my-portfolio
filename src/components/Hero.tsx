@@ -114,7 +114,9 @@ export default function Hero() {
               transition: { duration: 0.3 },
             }}
             whileTap={{ scale: 0.95 }}
-            onClick={() => scrollToSection(content.navigation.scrollToSections.projects)}
+            onClick={() =>
+              scrollToSection(content.navigation.scrollToSections.projects)
+            }
             className="w-full px-6 py-3 text-sm font-semibold text-center text-white transition-all duration-300 rounded-lg cursor-pointer xs:px-7 xs:py-3.5 xs:text-base sm:w-auto sm:px-8 sm:py-3.5 lg:px-10 lg:py-4 lg:text-lg xl:px-12 xl:py-4.5 xl:text-lg bg-gradient-to-r from-cyan-500 to-purple-500"
           >
             {content.hero.buttons.viewProjects}
@@ -185,7 +187,9 @@ export default function Hero() {
           repeatDelay: 1,
         }}
         className="absolute transform -translate-x-1/2 cursor-pointer bottom-4 xs:bottom-6 sm:bottom-8 lg:bottom-10 left-1/2"
-        onClick={() => scrollToSection(content.navigation.scrollToSections.about)}
+        onClick={() =>
+          scrollToSection(content.navigation.scrollToSections.about)
+        }
       >
         <motion.div
           whileHover={{ scale: 1.2, y: -2 }}

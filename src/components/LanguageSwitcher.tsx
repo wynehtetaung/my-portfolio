@@ -6,10 +6,10 @@ import { Z_INDEX } from "../constants";
 
 const languages = [
   { code: "en", name: "English", flag: "🇺🇸" },
-  // { code: 'es', name: 'Español', flag: '🇪🇸' },
-  // { code: 'fr', name: 'Français', flag: '🇫🇷' },
-  // { code: 'de', name: 'Deutsch', flag: '🇩🇪' },
-  // { code: 'ja', name: '日本語', flag: '🇯🇵' },
+  // { code: "es", name: "Español", flag: "🇪🇸" },
+  // { code: "fr", name: "Français", flag: "🇫🇷" },
+  // { code: "de", name: "Deutsch", flag: "🇩🇪" },
+  // { code: "ja", name: "日本語", flag: "🇯🇵" },
 ];
 
 export default function LanguageSwitcher() {
